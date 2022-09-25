@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+}
+
+main {
+  width: 50%;
+  margin: 0 auto;
+  background: blueviolet;
+  color: rgb(241, 239, 244);
+  padding: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+a {
+  color: blueviolet;
+  font-size: 28px;
+}
+.container {
+  margin-top: 50px;
+}
